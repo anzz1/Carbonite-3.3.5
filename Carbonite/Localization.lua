@@ -250,6 +250,7 @@ if GetLocale() == "deDE" then		-- German
 		["Isle of Conquest"] = "Insel der Eroberung",	-- 3.2
 		["Trial of the Champion"] = "Pr\195\188fung des Kreuzfahrers",
 		["Trial of the Crusader"] = "Pr\195\188fung des Champions",
+		["The Ruby Sanctum"] = "Das Rubinsanktum",
 	}
 	NXlMapSubNames = {
 		["Dalaran"] = {
@@ -644,6 +645,7 @@ elseif GetLocale() == "frFR" then	-- French
 		["Isle of Conquest"] = "\195\142le des Conqu\195\169rants",
 		["Trial of the Champion"] = "L'\195\169preuve du crois\195\169",
 		["Trial of the Crusader"] = "L'\195\169preuve du champion",
+		["The Ruby Sanctum"] = "Le sanctum Rubis",
 	}
 	NXlMapSubNames = {	-- Translate!
 		["Dalaran"] = {
@@ -1032,6 +1034,7 @@ elseif GetLocale() == "esES" or GetLocale() == "esMX" then	-- Spanish
 		["Isle of Conquest"] = "Isla de la Conquista",
 		["Trial of the Champion"] = "Prueba del Cruzado",
 		["Trial of the Crusader"] = "Prueba del Campe\195\179n",
+		["The Ruby Sanctum"] = "El Sagrario Rub\195­",
 	}
 	NXlMapSubNames = {	-- Translate!
 		["Dalaran"] = {

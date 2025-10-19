@@ -1,6 +1,6 @@
 ## Interface: 30300
-## Title: Carbonite 3.34c8
-## Version: 3.34c8
+## Title: Carbonite 3.34c9
+## Version: 3.34c9
 ## Author: Carbon Based Creations, LLC
 ## Notes: Copyright 2007-2010 Carbon Based Creations, LLC
 ## DefaultState: Enabled
